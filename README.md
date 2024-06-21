@@ -1,6 +1,6 @@
 # CaptainGame
 
-This simple app demonstrates the use of Composable functions, State, Recomposition, Remember, MutableState, and more. 
+This game demonstrates the use of Composable functions, State, Recomposition, Remember, MutableState, and more. 
 
 ## How to play
 
