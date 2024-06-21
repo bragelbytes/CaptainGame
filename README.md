@@ -10,4 +10,4 @@ I added a 'Current HP' counter that starts at 10 and either goes up when you enc
 
 -----
 
-This is a practice project from the [The Complete Android 14 & Kotlin Development Masterclass on Udemy](https://www.udemy.com/share/102Jgo3@blpu7bo5R8ihlOga5929F8S0iRz9EDtCZLTyg8rj2Ye867gyCdL0dBJsGjXXbmTczA==/).
+This is a tutorial project from the [The Complete Android 14 & Kotlin Development Masterclass on Udemy](https://www.udemy.com/share/102Jgo3@blpu7bo5R8ihlOga5929F8S0iRz9EDtCZLTyg8rj2Ye867gyCdL0dBJsGjXXbmTczA==/).
